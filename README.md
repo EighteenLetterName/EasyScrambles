@@ -34,7 +34,7 @@ Generator of 3x3 easy scrambles which are solved using the CFOP in ~26 moves
 
 — Easy cross
 
-— 4-move every F2L pare
+— 3-4 move every F2L pare
 
 — easy OLL
 
