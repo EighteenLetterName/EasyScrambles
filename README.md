@@ -54,5 +54,6 @@ Example of scrambles:
 9. U  L2  U′  B2  D  F2  D  F2  L2  F2  L  D2  B2  L′  D′  L  R  F  D2  F′
 10. L2  R2  U′  L2  B2  D  B2  R2  D′  R2  F′  R′  U  R  F  D2  L′  R2  D  L2  U2
 
+My PB's: single — 3.86 ao5 — 4.68
 
 Let's beat your PB
