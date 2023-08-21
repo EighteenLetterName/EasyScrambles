@@ -3,7 +3,7 @@ Creator: github.com/EighteenLetterName
 Discord: @EighteenLetterName
 
 Telegram: t.me/EighteenLetterName
-s
+
 VK: vk.com/EighteenLetterName
 
 ============================================================
