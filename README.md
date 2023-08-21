@@ -8,7 +8,7 @@ Telegram: t.me/EighteenLetterName
 
 VK: vk.com/EighteenLetterName
 
-You can run it on replit.com
+You can run it on [replit.com](https://replit.com/@EighteenLetterName/Rubiks-Cube-Easy-Scramble-Generator)
 
 ============================================================
 
