@@ -1,10 +1,10 @@
-Creator: @EighteenLetterName
+Creator: github.com/EighteenLetterName
 
 Discord: @EighteenLetterName
 
-Telegram: @EighteenLetterName
+Telegram: t.me/EighteenLetterName
 
-VK: @EighteenLetterName
+VK: vk.com/EighteenLetterName
 
 ============================================================
 
