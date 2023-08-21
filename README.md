@@ -8,6 +8,8 @@ Telegram: t.me/EighteenLetterName
 
 VK: vk.com/EighteenLetterName
 
+You can run it on replit.com
+
 ============================================================
 
 INTRODUCTION
