@@ -1,6 +1,6 @@
 Creator: github.com/EighteenLetterName
 
-Donate me: https://boosty.to/eighteenlettername
+Donate me: [boosty.to]https://boosty.to/eighteenlettername
 
 Discord: @EighteenLetterName
 
