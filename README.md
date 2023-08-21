@@ -1,5 +1,7 @@
 Creator: github.com/EighteenLetterName
 
+Donate me: https://boosty.to/eighteenlettername
+
 Discord: @EighteenLetterName
 
 Telegram: t.me/EighteenLetterName
