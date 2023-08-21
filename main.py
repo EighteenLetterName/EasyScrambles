@@ -15,9 +15,6 @@ import rotation
 
 #####################################################
 
-#####################################################
-
-
 def reverse(moves):
   moves.reverse()
   for i in range(len(moves)):
