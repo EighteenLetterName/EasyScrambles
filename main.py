@@ -1,12 +1,6 @@
 # Creator: github.com/EighteenLetterName
-#
-# Donate me: https://boosty.to/eighteenlettername
-#
 # Discord: @EighteenLetterName
-#
 # Telegram: t.me/EighteenLetterName
-#
-# VK: vk.com/EighteenLetterName
 
 from cubeofrubik import RubiksCube
 import random
