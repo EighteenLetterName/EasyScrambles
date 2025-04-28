@@ -5,7 +5,9 @@ Telegram: @EighteenLetterName
 You can run it on [replit.com](https://replit.com/@EighteenLetterName/Rubiks-Cube-Easy-Scramble-Generator)
 
 ============================================================
+
 ABOUT
+
 ============================================================
 
 Generator of 3x3 easy scrambles which are solved using the CFOP in ~26 moves
@@ -19,7 +21,9 @@ Generator of 3x3 easy scrambles which are solved using the CFOP in ~26 moves
 — PLL skip everytime
 
 ============================================================
-Example of scrambles:
+
+EXAMPLES
+
 ============================================================
 
 1. D′  L2  U  F2  R2  U2  L2  R2  F2  L2  F′  R′  D  B2  U  L2  B  L′  D2  B2  R
